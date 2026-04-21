@@ -42,10 +42,12 @@ The approach leverages:
 - Locally, set the dataset location in path and run cell by cell.
 
 ---
+
 ## Datasets
 Dataset is collected from iTrust https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_wadi/ 
 Dataset Identification: Wadi A2 2019 dataset WADI_dataset_new.csv, WADI_attackdataLABLE.csv
 
+---
 
 ### Requirements
 pip install numpy pandas torch scikit-learn matplotlib seaborn
